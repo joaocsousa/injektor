@@ -1,7 +1,7 @@
 # injektor
 tiny DI lib 
 
-fetures:
+features:
 - singleton instances
 - transient instances
 - injection qualifiers (`String` based for now)
